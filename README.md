@@ -1,2 +1,2 @@
 # pagespeed.conf
-Pagespeed configration 
+Pagespeed configration  
